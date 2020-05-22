@@ -202,3 +202,8 @@ I have switched to the [typhon-js](https://github.com/typhonjs-node-escomplex/ty
 
 Copyright (c) 2012 Jesse Harlin
 Licensed under the MIT license.
+
+[![ci][1]][2]
+
+[1]: https://github.com/the-simian/es6-plato/workflows/ci/badge.svg
+[2]: https://github.com/the-simian/es6-plato/actions
